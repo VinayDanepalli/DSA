@@ -8,7 +8,7 @@ ___
 * Secondly, keep learning new algorithms to add to build problem solving skills 
 * Finally, get comfortable with DSA and problem solving.
 
-## Roadmap 
+## DSA Roadmap
 
 __NOTE:__ : The below roadmap is fetched from: https://youtu.be/IX4QhQlJoDg
 
@@ -92,5 +92,22 @@ __NOTE:__ : The below roadmap is fetched from: https://youtu.be/IX4QhQlJoDg
 
 12. Trie 
 
+13. Greedy Algorithms
+    1. Dijkstras Algorithm
+    2. Minimum spanning tree
+
+14. Bit Manipulation
+    1. Left shift -> * 2
+    2. Right shifgt -> / 2
+
+15. Others
+    1. Circular Queues
+    2. Skip List 
+    3. Heap
+        1. K frequent elements
+    4. String Matching algorithms
+    5. Dequeue
+    6. Doubly linked list
+    7. Backtracking (recursion)
 
 
